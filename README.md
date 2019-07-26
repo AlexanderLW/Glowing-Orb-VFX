@@ -1,8 +1,8 @@
-# Glowing-Orb-VFX
+# Learning-VFX
 Learning VFX in Unity
 
-Download the exe to run: https://github.com/AlexanderLW/Glowing-Orb-VFX/blob/master/Build/Glowing%20Orb%20VFX.exe
+Pending changes ---- Download the exe to run: https://github.com/AlexanderLW/Glowing-Orb-VFX/blob/master/Build/Glowing%20Orb%20VFX.exe
 
-Video tutorial by Gabriel Aguiar Prod.
+Video tutorials by Gabriel Aguiar Prod.
 
-Video Link: https://www.youtube.com/watch?v=ctmqr_8esT0
+Channel Link: https://www.youtube.com/channel/UCtb1s859RTxx-RIgFs5ZVQA/videos
